@@ -1,0 +1,438 @@
+#EXTM3U
+#یک
+#EXTINF:-1 tvg-id="IRIB1.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png" group-title="General",یک
+https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8
+
+#دو
+#EXTINF:-1 tvg-id="IRIB2.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png" group-title="General",دو
+https://lenz.splus.ir/PLTV/88888888/224/3221226176/index.m3u8
+
+#سه
+#EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png" group-title="Kids;Sports",سه
+https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
+
+#چهار
+#EXTINF:-1 tvg-id="IRIB4.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/240px-IRIB_TV4_logo.svg.png" group-title="Culture",چهار
+https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8
+
+#خبر2
+#EXTINF:-1 tvg-id="IRINN2.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/84/IRINN2_IRIB.png" group-title="News",خبر ۲
+https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8
+
+#خبر
+#EXTINF:-1 tvg-id="IRINN.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/IRIB_IRINN_2025.png",خبر
+https://lenz.splus.ir/PLTV/88888888/224/3221226142/index.m3u8
+
+#آموزش
+#EXTINF:-1 tvg-id="AmouzeshTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amouzesh_TV_logo_%282023%29.svg/201px-Amouzesh_TV_logo_%282023%29.svg.png" group-title="General",آموزش
+https://lenz.splus.ir/PLTV/88888888/224/3221226151/index.m3u8
+
+#قرآن
+#EXTINF:-1 tvg-id="QuranTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png" group-title="Religious",قرآن 
+https://lenz.splus.ir/PLTV/88888888/224/3221226144/index.m3u8
+
+#سلامت 
+#EXTINF:-1 tvg-id="SalamatTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f0/IRIB_Salamat_Logo.png" group-title="Undefined",سلامت
+https://lenz.splus.ir/PLTV/88888888/224/3221226152/index.m3u8
+
+#نسیم 
+#EXTINF:-1 tvg-id="Nasim.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nasim_TV_logo.svg/320px-Nasim_TV_logo.svg.png" group-title="Entertainment",نسیم
+https://lenz.splus.ir/PLTV/88888888/224/3221226653/index.m3u8
+
+#مستند
+#EXTINF:-1 tvg-id="IRIBMostanad.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png" group-title="General",مستند 
+https://lenz.splus.ir/PLTV/88888888/224/3221226901/index.m3u8
+
+#امید
+#EXTINF:-1 tvg-id="IRIBOmid.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/IRIB_Omid.svg/512px-IRIB_Omid.svg.png" group-title="Kids",امید
+https://lenz.splus.ir/PLTV/88888888/224/3221226159/index.m3u8
+
+#افق
+#EXTINF:-1 tvg-id="OfoghTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/fe/Ofogh_TV_logo.svg/320px-Ofogh_TV_logo.svg.png" group-title="Culture",افق
+https://lenz.splus.ir/PLTV/88888888/224/3221226143/index.m3u8
+
+
+#EXTINF:-1 tvg-id="NamayeshTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Namayesh_TV_logo.svg/300px-Namayesh_TV_logo.svg.png" group-title="Entertainment",نمایش 
+https://lenz.splus.ir/PLTV/88888888/224/3221226148/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Tamasha.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/240px-IRIB_tamashaTV.svg.png" group-title="Undefined",تماشا 
+https://lenz.splus.ir/PLTV/88888888/224/3221226879/index.m3u8
+
+
+#فراتر
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/640px-IRIB_FARATAR_UHD.png",Faratar
+https://cdn-tbzef03.telewebion.com/se/faratar/live/1080p/index.m3u8
+
+
+#EXTINF:-1 tvg-id="iFilmPersian.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Movies",آیفیلم
+https://lenz.splus.ir/PLTV/88888888/224/3221226842/index.m3u8
+
+#EXTINF:-1 tvg-id="iFilm2.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png" group-title="Movies",آیفیلم ۲
+https://live.presstv.ir/hls/ifilm2.m3u8
+
+#EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/240px-Iribvarzesh2022.png",ورزش
+https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
+
+#EXTINF:-1 tvg-id="PooyaTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png" group-title="Undefined" ,پویا
+https://lenz.splus.ir/PLTV/88888888/224/3221226145/index.m3u8
+
+#EXTINF:-1 tvg-id="SahandTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/3/37/Tabriz_Sahand.svg/320px-Tabriz_Sahand.svg.png" group-title="Undefined",سهند
+https://lenz.splus.ir/PLTV/88888888/224/3221226423/index.m3u8
+
+#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/250px-Urmia_TV.svg.png" group-title="General",ارومیه
+https://lenz.splus.ir/PLTV/88888888/224/3221226800/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/9/92/Sahar-New.png",سحر آذری 
+https://lb-cdn.sepehrtv.ir/securelive3/saharazarsd/saharazarsd.m3u8?s=h7_3vYFp9Wik2SmBytww6w&t=1739996308
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/9/92/Sahar-New.png",سحر آذری 
+
+
+
+#EXTINF:-1 tvg-id="KordestanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/2c/Sanandaj_KORDESTAN.svg/240px-Sanandaj_KORDESTAN.svg.png",کردستان 
+https://lenz.splus.ir/PLTV/88888888/224/3221226647/index.m3u8
+
+#EXTINF:-1 tvg-id="TehranTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IRIBTV5.svg/208px-IRIBTV5.svg.png" group-title="General",تهران
+https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8
+
+#EXTINF:-1 tvg-id="AbadanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/39/Abadan_tv.png" group-title="General",آبادان
+https://lenz.splus.ir/PLTV/88888888/224/3221227000/index.m3u8
+
+#EXTINF:-1 tvg-id="AflakTV.ir" tvg-logo="https://i.imgur.com/LkLCHpf.png" group-title="General",افلاک
+https://lenz.splus.ir/PLTV/88888888/224/3221226675/index.m3u8
+
+#EXTINF:-1 tvg-id="AftabTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/6/6e/Arak_AFTAB.svg/274px-Arak_AFTAB.svg.png" group-title="Undefined",آفتاب 
+https://lenz.splus.ir/PLTV/88888888/224/3221226899/index.m3u8
+
+#EXTINF:-1 tvg-id="AlAlam.ir" tvg-logo="https://i.imgur.com/Zdi31dy.png" group-title="News",العالم
+https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.telewebion.com/channelsLogo/NGViODhkMWM0MzFiMzI4MDE0YWJmMDI3NDYzMmY0ZWRhMzJhMmEzODJmMjhlMjYwNjc2MjM3ZDkxNjlhNTg3Zg/default" group-title="Undefined",الکوثر
+https://lenz.splus.ir/PLTV/88888888/224/3221226158/index.m3u8
+
+#EXTINF:-1 tvg-id="BaranTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/b/b9/TV_Baran.svg/283px-TV_Baran.svg.png" group-title="General",باران
+https://lenz.splus.ir/PLTV/88888888/224/3221226902/index.m3u8
+
+#EXTINF:-1 tvg-id="FarsTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/7/7b/Iribfars.png" group-title="General",فارس
+https://lenz.splus.ir/PLTV/88888888/224/3221226701/index.m3u8
+
+#EXTINF:-1 tvg-id="IsfahanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IsfahanTV.svg/242px-IsfahanTV.svg.png" group-title="General",اصفهان 
+https://lenz.splus.ir/PLTV/88888888/224/3221226652/index.m3u8
+
+#EXTINF:-1 tvg-id="JameJamTV1.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Jjtvlogo1401.png" group-title="Entertainment",جام جم
+https://lenz.splus.ir/PLTV/88888888/224/3221226178/index.m3u8
+
+#EXTINF:-1 tvg-id="KermanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kerman_irib_logo_%28blue_version%29.png/240px-Kerman_irib_logo_%28blue_version%29.png" group-title="General",کرمان
+https://lenz.splus.ir/PLTV/88888888/224/3221226856/index.m3u8
+
+#EXTINF:-1 tvg-id="KhozestanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/9/9a/Ahwaz_TV.svg/320px-Ahwaz_TV.svg.png" group-title="General",خوزستان
+https://lenz.splus.ir/PLTV/88888888/224/3221226415/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IRIB_Mazandaran_Last_Orange_Logo.png/800px-IRIB_Mazandaran_Last_Orange_Logo.png" group-title="Undefined",مازندران 
+https://lenz.splus.ir/PLTV/88888888/224/3221226786/index.m3u8
+
+#EXTINF:-1 tvg-id="PressTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Press_Tv_logo.svg/253px-Press_Tv_logo.svg.png" group-title="News",پرس تی وی
+https://lenz.splus.ir/PLTV/88888888/224/3221226156/index.m3u8
+
+#EXTINF:-1 tvg-id="QazvinTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/QazvinTV.svg/320px-QazvinTV.svg.png" group-title="Undefined",قزوین
+https://lenz.splus.ir/PLTV/88888888/224/3221226888/index.m3u8
+
+#EXTINF:-1 tvg-id="SepehrTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sepehrtv.png/258px-Sepehrtv.png" group-title="Undefined",سپهر
+https://lenz.splus.ir/PLTV/88888888/224/3221226161/index.m3u8
+
+#EXTINF:-1 tvg-id="YazdTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/382px-Yazd_taban.svg.png" group-title="Undefined",یزد
+https://lenz.splus.ir/PLTV/88888888/224/3221227023/index.m3u8
+
+#EXTINF:-1 tvg-id="AlborzTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alborz_TV_logo.svg/310px-Alborz_TV_logo.svg.png" group-title="General",البرز
+https://api.fam.ir/api/v2.1.1/link/getLink/eyJjb250ZW50VHlwZSI6ImxpdmUiLCJmaWxlbmFtZSI6ImFsYm9yeiIsInVzZXJJcCI6IjUuMTIxLjI2LjE5NSIsIm11bHRpQXVkaW8iOiIiLCJjaGFubmVsVHlwZSI6InR2IiwiZm9yZWlnbkFwcCI6IiIsIm9wZXJhdG9yRGF0YSI6eyJuYW1lIjoiXHUwNjI3XHUwNmNjXHUwNjMxXHUwNjI3XHUwNjQ2XHUwNjMzXHUwNjQ0Iiwib3BlcmF0b3IiOiJpcmFuY2VsbCJ9LCJ0cmFmZmljU3RhdHVzIjowLCJ0cmFmZmljU3RhdHVzVHh0IjoiXHUwNjJhXHUwNjQ1XHUwNjI3XHUwNjQ1IFx1MDYyOFx1MDY0N1x1MDYyNyIsInRyYWZmaWNTdGF0dXNTdWJzY3JpcHRpb24iOjAsImV4cGlyeVRpbWUiOjE3Mzk5ODQ1NjMsImZyZWUiOmZhbHNlfQ.m3u8
+
+
+
+
+#مثبت پویا
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D9%85%D8%AB%D8%A8%D8%AA_%D9%BE%D9%88%DB%8C%D8%A7.png/616px-%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D9%85%D8%AB%D8%A8%D8%AA_%D9%BE%D9%88%DB%8C%D8%A7.png",پویا پلاس
+
+
+
+#تلوبیون ورزشی1
+#EXTINF:-1 tvg-id= tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%88%D8%A8%DB%8C%D9%88%D9%86_%D9%88%D8%B1%D8%B2%D8%B4%DB%8C_%DB%B1.png/480px-%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%88%D8%A8%DB%8C%D9%88%D9%86_%D9%88%D8%B1%D8%B2%D8%B4%DB%8C_%DB%B1.png",تلوبیون ورزشی 1
+
+
+#سمنان
+#EXTINF:-1 tvg-id="SemnanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/35/Semnan_TV.png" group-title="Undefined",سمنان 
+https://fam5.fam.ir/famtv/lives/semnan/vs1/out.m3u8?md5=qRSVQHq9Jx-XZ0JkJiNe1A&expires=1740065175
+
+
+
+#EXTINF:-1 tvg-id="",Ara 324p
+
+
+
+
+#EXTINF:-1 tvg-id="",Ara 720p
+
+
+
+#EXTINF:-1 tvg-id="",Habib
+
+
+#EXTINF:-1 tvg-id="",Jam 720p
+
+
+
+
+#EXTINF:-1 tvg-id="",Jam 324p
+
+
+
+
+#EXTINF:-1 tvg-id="JahanbinTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/4/4a/Shahrekord_Jahanbin.svg/320px-Shahrekord_Jahanbin.svg.png" group-title="General", جهانبین
+https://fam5.fam.ir/famtv/lives/jahanbin/vs1/out.m3u8?md5=bbG6BMLZfwftCQ93DQOgMQ&expires=1740065599
+
+
+#EXTINF:-1 tvg-id="JahanbinTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/4/4a/Shahrekord_Jahanbin.svg/320px-Shahrekord_Jahanbin.svg.png" group-title="General",
+
+
+
+
+#EXTINF:-1 tvg-id="AtrakTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/28/Bojnourd_ATRAK_TV.svg/292px-Bojnourd_ATRAK_TV.svg.png" group-title="General",اترک
+https://fam5.fam.ir/famtv/lives/khorasaneshomali/vs1/out.m3u8?md5=z2VhqyDstmUw34s3aGL2Pw&expires=1740065678
+
+
+#EXTINF:-1 tvg-id="AtrakTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/28/Bojnourd_ATRAK_TV.svg/292px-Bojnourd_ATRAK_TV.svg.png" group-title="General",Atrak 576p 
+
+
+
+
+#EXTINF:-1 tvg-id="BoushehrTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/9/94/Bushehr_TV.svg/200px-Bushehr_TV.svg.png" group-title="Undefined",بوشهر
+https://fam5.fam.ir/famtv/lives/booshehr/vs1/out.m3u8?md5=Wawd2QI2aU6JkjJ1HJ5plQ&expires=1740065730
+
+
+#EXTINF:-1 tvg-id="BoushehrTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/9/94/Bushehr_TV.svg/200px-Bushehr_TV.svg.png" group-title="Undefined",Bushehr 576p 
+
+
+
+
+#EXTINF:-1 tvg-id="DenaTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/1/1c/Yasuj_DENA.svg/274px-Yasuj_DENA.svg.png" group-title="General",دنا
+https://fam5.fam.ir/famtv/lives/yasooj/vs1/out.m3u8?md5=cATwebe_TBcmt_oYugT_dA&expires=1740065792
+
+
+#EXTINF:-1 tvg-id="DenaTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/1/1c/Yasuj_DENA.svg/274px-Yasuj_DENA.svg.png" group-title="General",Dena
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Zanjan_ESHRAGH.svg/480px-Zanjan_ESHRAGH.svg.png" group-title="Undefined",اشراق
+https://fam5.fam.ir/famtv/lives/eshragh/vs1/out.m3u8?md5=uMLsYRqmfgVWTZu5yqnPqg&expires=1740065843
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Eshragh
+
+
+
+
+#EXTINF:-1 tvg-id="HamedanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/IRIB_Hamadan_tv.svg/296px-IRIB_Hamadan_tv.svg.png" group-title="Undefined",همدان
+https://s1-cdn.sepehrtv.ir/securelive3/hamedansd/576p.m3u8?s=2GvOfUJAdPnc7SqQ8SmX-A&t=1739986894
+
+
+#EXTINF:-1 tvg-id="HamedanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/IRIB_Hamadan_tv.svg/296px-IRIB_Hamadan_tv.svg.png" group-title="Undefined",Hamedan
+
+
+
+
+#EXTINF:-1 tvg-id="HamoonTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/b/bc/Zahedan_Hamoon.png" group-title="Undefined",هامون
+https://fam5.fam.ir/famtv/lives/zahedan/vs1/out.m3u8?md5=co_cJXqWCEd-IPkf-Q-FqA&expires=1740066174
+
+
+#EXTINF:-1 tvg-id="HamoonTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/b/bc/Zahedan_Hamoon.png" group-title="Undefined",Hamoon
+
+
+
+
+#EXTINF:-1 tvg-id="IlamTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ilam_TV.png/240px-Ilam_TV.png" group-title="General",ایلام
+https://t3-cdn.eirib.ir/securelive3/ilamsd/576p.m3u8?s=WFW8kMPeQGwCOPe1eXtOlA&t=1739987077
+
+
+#EXTINF:-1 tvg-id="IlamTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ilam_TV.png/240px-Ilam_TV.png" group-title="General",Ilam
+
+
+
+#EXTINF:-1 tvg-id="JameJamTV3.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Jjtvlogo1401.png" group-title="Entertainment",جام جم ۳
+https://ncdn.telewebion.com/jjtv3/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JameJamTV3.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Jjtvlogo1401.png" group-title="Entertainment",JameJam3
+
+
+
+
+#EXTINF:-1 tvg-id="KhalijeFarsTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/7/7c/Bandar_KHALI_J_e_FARS_TV.svg/290px-Bandar_KHALI_J_e_FARS_TV.svg.png" group-title="General",خلیج فارس
+https://fam5.fam.ir/famtv/lives/bandarabas/vs1/out.m3u8?md5=XqKhaevc82KDRbANtEjPuw&expires=1740066373
+
+
+#EXTINF:-1 tvg-id="KhalijeFarsTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/7/7c/Bandar_KHALI_J_e_FARS_TV.svg/290px-Bandar_KHALI_J_e_FARS_TV.svg.png" group-title="General",Khalij-e Fars
+
+
+
+#EXTINF:-1 tvg-id="KhavaranTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/86/KHAVARAN_tv.png" group-title="General",خاوران
+https://fam5.fam.ir/famtv/lives/khorasanejonoobi/vs1/out.m3u8?md5=vKOaO2gM9K-OAqxi9jm5yw&expires=1740066425
+
+
+#EXTINF:-1 tvg-id="KhavaranTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/86/KHAVARAN_tv.png" group-title="General",Khavaran
+
+
+#EXTINF:-1 tvg-id="KhorasanRazaviTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/b/bd/%D9%84%D9%88%DA%AF%D9%88_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86_%D8%B1%D8%B6%D9%88%DB%8C.png" group-title="General",خراسان رضوی 
+https://fam5.fam.ir/famtv/lives/khorasanerazavi/vs1/out.m3u8?md5=enBHfSWIJTaNcGo4tEeYFA&expires=1740066481
+
+
+#EXTINF:-1 tvg-id="KhorasanRazaviTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/b/bd/%D9%84%D9%88%DA%AF%D9%88_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86_%D8%B1%D8%B6%D9%88%DB%8C.png" group-title="General",Khorasan Razavi
+
+
+#EXTINF:-1 tvg-id="KishTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/1/14/Kish_tv.svg/320px-Kish_tv.svg.png" group-title="General",کیش
+https://t1-cdn.sepehrtv.ir/securelive3/kishsd/576p.m3u8?s=ODchAg92pYMJF8q4C-gpTw&t=1739987358
+
+
+#EXTINF:-1 tvg-id="KishTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/1/14/Kish_tv.svg/320px-Kish_tv.svg.png" group-title="General",Kish
+
+
+#EXTINF:-1 tvg-id="MahabadTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/cb/Mahabad_tv.png" group-title="General",Mahabad
+
+
+
+#EXTINF:-1 tvg-id="MahabadTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/cb/Mahabad_tv.png" group-title="General",Mahabad
+
+
+
+#EXTINF:-1 tvg-id="NamaTV.ir",Nama
+
+
+
+#EXTINF:-1 tvg-id="NamaTV.ir",Nama
+
+
+#EXTINF:-1 tvg-id="NoorTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/c/ce/Qum_Noor_TV.svg/576px-Qum_Noor_TV.svg.png",نور
+https://fam5.fam.ir/famtv/lives/qom/vs1/out.m3u8?md5=mKrsGcduX7iDVh04RGZ1Hw&expires=1740066659
+
+#EXTINF:-1 tvg-id="NoorTV.ir",Noor
+
+
+#EXTINF:-1 tvg-id="",Palestine
+
+
+#EXTINF:-1 tvg-id="",Palestine
+
+
+#EXTINF:-1 tvg-id="SabalanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f2/Ardabil_SABALAN.png" group-title="Undefined",سبلان
+https://fam5.fam.ir/famtv/lives/ardabil/vs1/out.m3u8?md5=pmxbTRhJm8DFlP_DLC8HoQ&expires=1740066743
+
+
+#EXTINF:-1 tvg-id="SabalanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f2/Ardabil_SABALAN.png" group-title="Undefined",Sabalan
+
+
+
+#EXTINF:-1 tvg-id="SabalanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f2/Ardabil_SABALAN.png" group-title="Undefined",Sabalan
+
+
+
+
+#EXTINF:-1 tvg-id="SabzTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_Golestan.png/240px-Logo_Golestan.png" group-title="General",سبز
+https://fam5.fam.ir/famtv/lives/golestan/vs1/out.m3u8?md5=n3gzRhSL5eAugCKa7RoeXw&expires=1740065435
+
+
+#EXTINF:-1 tvg-id="SabzTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_Golestan.png/240px-Logo_Golestan.png" group-title="General",Sabz
+
+
+
+#EXTINF:-1 tvg-id="TabarestanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IRIB_Mazandaran_Last_Orange_Logo.png/240px-IRIB_Mazandaran_Last_Orange_Logo.png" group-title="General",Tabarestan
+
+
+
+#EXTINF:-1 tvg-id="TabarestanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IRIB_Mazandaran_Last_Orange_Logo.png/240px-IRIB_Mazandaran_Last_Orange_Logo.png" group-title="General",Tabarestan
+
+
+#EXTINF:-1 tvg-id="ZagrosTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/e/e4/Kermanshah_Zaghros.svg/240px-Kermanshah_Zaghros.svg.png" group-title="General",زاگرس
+https://fam5.fam.ir/famtv/lives/kermanshah/vs1/out.m3u8?md5=ntiiEgVAlYTvnM1OgxXalw&expires=1740066820
+
+
+#EXTINF:-1 tvg-id="ZagrosTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/e/e4/Kermanshah_Zaghros.svg/240px-Kermanshah_Zaghros.svg.png" group-title="General",Zagros
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://5.121.1.11:3000/CPS/images/universal/film/logo/202305/20230515/20230515054545193hba_op.png",Razavi high 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.esra.ir/documents/38972/53654/logo-12.png/13fbe575-c6ba-d930-cc69-570b203db303?t=1635338665899",اسراء
+https://edge41.454917.ir.cdn.ir/hls2/esratv_mid.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://snn.ir/client/themes/fa/main/img/snn_TV.png" ,دانشجو
+https://live2.snn.ir/hls/snn3.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://farsi.iranpress.com/img/watermark.png" , ایران پرس
+https://ip3stream.iranpress.com/hls/ip3.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.telewebion.com/channelsLogo/85f466a7-7d17-4ce8-bee6-13da4ff5deb1/default" , صحن گوهرشاد
+https://stream01.nasimrezvan.com/hls/RpnpimQkhQvuAXZrPBbvEJwL/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.telewebion.com/channelsLogo/85f466a7-7d17-4ce8-bee6-13da4ff5deb1/default" , صحن انقلاب اسلامی 
+https://stream01.nasimrezvan.com/hls/QkEtXUwaqTiUWfLjGKrscUdR/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.telewebion.com/channelsLogo/85f466a7-7d17-4ce8-bee6-13da4ff5deb1/default" , صحن آزادی
+https://stream01.nasimrezvan.com/hls/zDdVwKZDzHmpSuyCyAhoWpfs/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://5.121.1.11:3000/CPS/images/universal/film/logo/202305/20230515/20230515054545193hba_op.png",رضوی
+http://92.42.50.26/wh7f454c46tw3989409823_248121380/PLTV/88888888/224/3221227041/1.m3u8?tenantId=9802
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://5.121.1.11:3003/CPS/images/universal/film/logo/202404/20240429/29/20240429121759293vxf_op.png",لنز اسپورت
+http://92.42.50.5/wh7f454c46tw3285032904_-350448225/PLTV/88888888/224/3221227061/3.m3u8?tenantId=9805
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://5.121.1.11:3003/CPS/images/universal/film/logo/202404/20240429/29/20240429121759293vxf_op.png",LenzSport low
+#http://92.42.50.5/wh7f454c46tw3285032904_-350448225/PLTV/88888888/224/3221227061/1.m3u8?tenantId=9805
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://5.121.1.11:3003/CPS/images/universal/film/logo/202404/20240429/29/20240429121759293vxf_op.png",LenzSport mid
+#http://92.42.50.5/wh7f454c46tw3285032904_-350448225/PLTV/88888888/224/3221227061/4.m3u8?tenantId=9805
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://5.121.1.11:3008/CPS/images/universal/film/logo/202405/20240518/20/20240518093519297fts_op.png",LenzFilm low
+#http://92.42.50.93/wh7f454c46tw3714899987_-2143406755/PLTV/88888888/224/3221227021/1.m3u8?tenantId=9802
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://5.121.1.11:3008/CPS/images/universal/film/logo/202405/20240518/20/20240518093519297fts_op.png",LenzFilm high 
+#http://92.42.50.93/wh7f454c46tw3714899987_-2143406755/PLTV/88888888/224/3221227021/4.m3u8?tenantId=9802
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://5.121.1.11:3008/CPS/images/universal/film/logo/202405/20240518/20/20240518093519297fts_op.png",لنز فيلم 
+http://92.42.50.93/wh7f454c46tw3714899987_-2143406755/PLTV/88888888/224/3221227021/3.m3u8?tenantId=9802
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://5.121.1.11:3008/CPS/images/universal/film/logo/202405/20240518/29/20240518094420254nn0_op.png",لنز انیمیشن 
+https://lenz.splus.ir/PLTV/88888888/224/3221227043/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fam.ir/_next/image?url=https%3A%2F%2Fimg.fam.ir%2Fuploads%2Fchannel%2Ffam_koodak_logo2.png&w=96&q=30" ,کودک
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fam.ir/_next/image?url=https%3A%2F%2Fimg.fam.ir%2Fuploads%2Fchannel%2Ffam_koodak_logo2.png&w=96&q=30" ,کودک
+https://fam5.fam.ir/famtv/lives/nvod1/vs2/out.m3u8?md5=Iqv30CD0t138R8IJPDDrRQ&expires=1740061675
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fam.ir/_next/image?url=https%3A%2F%2Fimg.fam.ir%2Fuploads%2Fchannel%2Fasli-film.png&w=96&q=30" ,فیلم
+https://fam5.fam.ir/famtv/lives/nvod10/vs0/out.m3u8?md5=PPdIidw0CcVURgvWEhVKjg&expires=1740074382
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.cdn.asset.aparat.com/profile-photo/18527715-733482-m.jpg",آپارات موزیک
+https://live.cdn.asset.aparat.com/74df0865577334ffd3f6577bec0b9222/livehls/AparatMusic_mpyea1v.m3u8?s=I3SBEJyi2jmRgfmBUR8Ocw&e=1740019090&ip=5.121.26.195
+
