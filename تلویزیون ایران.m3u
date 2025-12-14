@@ -1,71 +1,71 @@
 #EXTM3U
 # یک
 #EXTINF:-1 tvg-id="IRIBTV1.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png",یک
-https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8
+https://ncdn.telewebion.com/tv1/live/playlist.m3u8
 
 # دو
 #EXTINF:-1 tvg-id="IRIBTV2.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png",دو
-https://lenz.splus.ir/PLTV/88888888/224/3221226176/index.m3u8
+https://ncdn.telewebion.com/tv2/live/playlist.m3u8
 
 # سه
 #EXTINF:-1 tvg-id="IRIBTV3.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png",سه
-https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
+https://ncdn.telewebion.com/tv3/live/playlist.m3u8
 
 # چهار
 #EXTINF:-1 tvg-id="IRIBTV4.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/240px-IRIB_TV4_logo.svg.png",چهار
-https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8
+https://ncdn.telewebion.com/tv4/live/playlist.m3u8
 
 # خبر 2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/84/IRINN2_IRIB.png",خبر 2
-https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8
+https://ncdn.telewebion.com/irinn2/live/playlist.m3u8
 
 # خبر
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/IRIB_IRINN_2025.png",خبر
-https://lenz.splus.ir/PLTV/88888888/224/3221226142/index.m3u8
+https://ncdn.telewebion.com/irinn/live/playlist.m3u8
 
 # آموزش
 #EXTINF:-1 tvg-id="AmouzeshTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amouzesh_TV_logo_%282023%29.svg/201px-Amouzesh_TV_logo_%282023%29.svg.png",آموزش
-https://lenz.splus.ir/PLTV/88888888/224/3221226151/index.m3u8
+https://ncdn.telewebion.com/amouzesh/live/playlist.m3u8
 
-# قرآن 
-#EXTINF:-1 tvg-id="QuranTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png",قرآن 
-https://lenz.splus.ir/PLTV/88888888/224/3221226144/index.m3u8
+# قرآن 
+#EXTINF:-1 tvg-id="QuranTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png",قرآن 
+https://ncdn.telewebion.com/quran/live/playlist.m3u8
 
 # سلامت
 #EXTINF:-1 tvg-id="SalamatTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f0/IRIB_Salamat_Logo.png",سلامت
-https://lenz.splus.ir/PLTV/88888888/224/3221226152/index.m3u8
+https://ncdn.telewebion.com/salamat/live/playlist.m3u8
 
 # نسیم
 #EXTINF:-1 tvg-id="NasimTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nasim_TV_logo.svg/320px-Nasim_TV_logo.svg.png",نسیم
-https://lenz.splus.ir/PLTV/88888888/224/3221226653/index.m3u8
+https://ncdn.telewebion.com/nasim/live/playlist.m3u8
 
-# مستند 
-#EXTINF:-1 tvg-id="IRIBMostanad.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png",مستند 
-https://lenz.splus.ir/PLTV/88888888/224/3221226901/index.m3u8
+# مستند 
+#EXTINF:-1 tvg-id="IRIBMostanad.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png",مستند 
+https://ncdn.telewebion.com/mostanad/live/playlist.m3u8
 
 # امید
 #EXTINF:-1 tvg-id="IRIBOmid.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/IRIB_Omid.svg/512px-IRIB_Omid.svg.png",امید
-https://lenz.splus.ir/PLTV/88888888/224/3221226159/index.m3u8
+https://ncdn.telewebion.com/omid/live/playlist.m3u8
 
 # افق
 #EXTINF:-1 tvg-id="OfoghTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/fe/Ofogh_TV_logo.svg/320px-Ofogh_TV_logo.svg.png",افق
-https://lenz.splus.ir/PLTV/88888888/224/3221226143/index.m3u8
+https://ncdn.telewebion.com/ofogh/live/playlist.m3u8
 
-# نمایش 
-#EXTINF:-1 tvg-id="NamayeshTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Namayesh_TV_logo.svg/300px-Namayesh_TV_logo.svg.png",نمایش 
-https://lenz.splus.ir/PLTV/88888888/224/3221226148/index.m3u8
+# نمایش 
+#EXTINF:-1 tvg-id="NamayeshTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Namayesh_TV_logo.svg/300px-Namayesh_TV_logo.svg.png",نمایش 
+https://ncdn.telewebion.com/namayesh/live/playlist.m3u8
 
-# تماشا 
-#EXTINF:-1 tvg-id="TamashaTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/240px-IRIB_tamashaTV.svg.png",تماشا 
-https://lenz.splus.ir/PLTV/88888888/224/3221226879/index.m3u8
+# تماشا 
+#EXTINF:-1 tvg-id="TamashaTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/240px-IRIB_tamashaTV.svg.png",تماشا 
+https://ncdn.telewebion.com/hdtest/live/playlist.m3u8
 
 # فراتر
 #EXTINF:-1 tvg-id="FaraTarTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/640px-IRIB_FARATAR_UHD.png",فراتر
-https://s4-cdn.sepehrtv.ir/securelive3/uhd/720p.m3u8?s=deShcCEhVUTgiunwJoiZPg&t=1762595238
+https://ncdn.telewebion.com/faratar/live/playlist.m3u8
 
 # آیفیلم
 #EXTINF:-1 tvg-id="iFilmPersian.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",آیفیلم
-https://lenz.splus.ir/PLTV/88888888/224/3221226842/index.m3u8
+https://ncdn.telewebion.com/ifilm/live/playlist.m3u8
 
 # آیفیلم ۲
 #EXTINF:-1 tvg-id="iFilm2.ir" tvg-logo="https://t3-cdn.eirib.ir/img/channel/event/channel_logo/Ifilm_Dari.png",آیفیلم ۲
@@ -73,74 +73,75 @@ https://live.presstv.ir/hls/ifilm2.m3u8
 
 # ورزش
 #EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/240px-Iribvarzesh2022.png",ورزش
-https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
+https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
 
 # پویا
 #EXTINF:-1 tvg-id="PooyaTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png",پویا
-https://lenz.splus.ir/PLTV/88888888/224/3221226145/index.m3u8
+https://ncdn.telewebion.com/pooya/live/playlist.m3u8
 
 # سهند
 #EXTINF:-1 tvg-id="SahandTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/3/37/Tabriz_Sahand.svg/320px-Tabriz_Sahand.svg.png",سهند
-https://lenz.splus.ir/PLTV/88888888/224/3221226423/index.m3u8
+https://ncdn.telewebion.com/sahand/live/playlist.m3u8
 
 # ارومیه
 #EXTINF:-1 tvg-id="WestAzerbaijanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/250px-Urmia_TV.svg.png",ارومیه
-https://lenz.splus.ir/PLTV/88888888/224/3221226800/index.m3u8
+https://ncdn.telewebion.com/azarbayjangharbi/live/playlist.m3u8
 
-# کردستان 
-#EXTINF:-1 tvg-id="KordestanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/2c/Sanandaj_KORDESTAN.svg/240px-Sanandaj_KORDESTAN.svg.png",کردستان 
-https://lenz.splus.ir/PLTV/88888888/224/3221226647/index.m3u8
+# کردستان 
+#EXTINF:-1 tvg-id="KordestanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/2c/Sanandaj_KORDESTAN.svg/240px-Sanandaj_KORDESTAN.svg.png",کردستان 
+https://ncdn.telewebion.com/kordestan/live/playlist.m3u8
 
 # تهران
 #EXTINF:-1 tvg-id="TehranTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IRIBTV5.svg/208px-IRIBTV5.svg.png",تهران
-https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8
+https://ncdn.telewebion.com/tehran/live/playlist.m3u8
 
 # آبادان
 #EXTINF:-1 tvg-id="AbadanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/39/Abadan_tv.png",آبادان
-https://lenz.splus.ir/PLTV/88888888/224/3221227000/index.m3u8
+http://ncdn.telewebion.com/abadan/live/playlist.m3u8
 
 # افلاک
 #EXTINF:-1 tvg-id="AflakTV.ir" tvg-logo="https://t3-cdn.eirib.ir/img/channel/aflak_new.png",افلاک
-https://lenz.splus.ir/PLTV/88888888/224/3221226675/index.m3u8
+https://ncdn.telewebion.com/aflak/live/playlist.m3u8
 
-# آفتاب 
-#EXTINF:-1 tvg-id="AftabTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/6/6e/Arak_AFTAB.svg/274px-Arak_AFTAB.svg.png",آفتاب 
-https://lenz.splus.ir/PLTV/88888888/224/3221226899/index.m3u8
+# آفتاب 
+#EXTINF:-1 tvg-id="AftabTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/6/6e/Arak_AFTAB.svg/274px-Arak_AFTAB.svg.png",آفتاب 
+https://ncdn.telewebion.com/aftab/live/playlist.m3u8
 
 # باران
 #EXTINF:-1 tvg-id="BaranTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/b/b9/TV_Baran.svg/283px-TV_Baran.svg.png",باران
-https://lenz.splus.ir/PLTV/88888888/224/3221226902/index.m3u8
+https://ncdn.telewebion.com/baran/live/playlist.m3u8
 
 # فارس
 #EXTINF:-1 tvg-id="FarsTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/7/7b/Iribfars.png",فارس
-https://lenz.splus.ir/PLTV/88888888/224/3221226701/index.m3u8
+https://ncdn.telewebion.com/fars/live/playlist.m3u8
 
-# اصفهان 
-#EXTINF:-1 tvg-id="IsfahanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IsfahanTV.svg/242px-IsfahanTV.svg.png",اصفهان 
-https://lenz.splus.ir/PLTV/88888888/224/3221226652/index.m3u8
+# اصفهان 
+#EXTINF:-1 tvg-id="IsfahanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IsfahanTV.svg/242px-IsfahanTV.svg.png",اصفهان 
+https://ncdn.telewebion.com/esfahan/live/playlist.m3u8
 
 # جام جم 1
 #EXTINF:-1 tvg-id="JameJamTV1.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Jjtvlogo1401.png",جام جم 1
 
 # کرمان
 #EXTINF:-1 tvg-id="KermanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kerman_irib_logo_%28blue_version%29.png/240px-Kerman_irib_logo_%28blue_version%29.png",کرمان
-https://lenz.splus.ir/PLTV/88888888/224/3221226856/index.m3u8
+https://ncdn.telewebion.com/kerman/live/playlist.m3u8
 
 # خوزستان
 #EXTINF:-1 tvg-id="KhozestanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/9/9a/Ahwaz_TV.svg/320px-Ahwaz_TV.svg.png",خوزستان
-https://lenz.splus.ir/PLTV/88888888/224/3221226415/index.m3u8
+https://ncdn.telewebion.com/khoozestan/live/playlist.m3u8
 
-# مازندران 
-#EXTINF:-1 tvg-id="MazandaranTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IRIB_Mazandaran_Last_Orange_Logo.png/800px-IRIB_Mazandaran_Last_Orange_Logo.png",مازندران 
-https://lenz.splus.ir/PLTV/88888888/224/3221226786/index.m3u8
+# مازندران 
+#EXTINF:-1 tvg-id="MazandaranTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IRIB_Mazandaran_Last_Orange_Logo.png/800px-IRIB_Mazandaran_Last_Orange_Logo.png",مازندران 
+https://ncdn.telewebion.com/mazandaran/live/playlist.m3u8
 
 # قزوین
 #EXTINF:-1 tvg-id="QazvinTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/QazvinTV.svg/320px-QazvinTV.svg.png",قزوین
-https://lenz.splus.ir/PLTV/88888888/224/3221226888/index.m3u8
+https://ncdn.telewebion.com/qazvin/live/playlist.m3u8
 
 # یزد
 #EXTINF:-1 tvg-id="YazdTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/382px-Yazd_taban.svg.png",یزد
-https://lenz.splus.ir/PLTV/88888888/224/3221227023/index.m3u8
+https://ncdn.telewebion.com/yazd/live/playlist.m3u8
+
 
 # البرز
 #EXTINF:-1 tvg-id="AlborzTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alborz_TV_logo.svg/310px-Alborz_TV_logo.svg.png",البرز
@@ -296,7 +297,7 @@ https://ncdn.telewebion.com/namaquran/live/playlist.m3u8
 
 # سپهر
 #EXTINF:-1 tvg-id="SepehrTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sepehrtv.png/258px-Sepehrtv.png",سپهر
-https://lenz.splus.ir/PLTV/88888888/224/3221226161/index.m3u8
+https://ncdn.telewebion.com/sepehr/live/playlist.m3u8
 
 # نوا
 #EXTINF:-1 tvg-id="Nava.ir" tvg-logo="https://t1-cdn.sepehrtv.ir/img/channel/shabake%20nava%20130%20130.png",نوا
@@ -344,7 +345,7 @@ https://ncdn.telewebion.com/nama/live/playlist.m3u8?checkedby:iptvcat.com
 
 # حبیب
 #EXTINF:-1 tvg-id="HabibTV.ir" tvg-logo="https://s1-cdn.sepehrtv.ir/img/channel/habib300-min.png",حبیب
-https://ncdn.telewebion.com/habib/live/playlist.m3u8?checkedby:iptvcat.com
+https://ncdn.telewebion.com/habib/live/playlist.m3u8
 
 # کتاب
 #EXTINF:-1 tvg-id="KetabNama.ir" tvg-logo="https://static.telewebion.com/channelsLogo/cd0ff86a-5976-402b-b953-96ede1f79caa/default",کتاب
@@ -352,16 +353,28 @@ https://ncdn.telewebion.com/ketabnama/live/playlist.m3u8
 
 # تلوبیون ورزشی 1
 #EXTINF:-1 tvg-id="TWSport1.ir" tvg-logo="https://static.telewebion.com/channelsLogo/f67a700c-c380-41a6-a38b-aeca31c7e783/default",تلوبیون ورزشی 1
-https://ncdn.telewebion.com/twsport/live/playlist.m3u8
+https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport1/live/1080p/index.m3u8
 
 # تلوبیون ورزشی 2
 #EXTINF:-1 tvg-id="TWSport2.ir" tvg-logo="https://static.telewebion.com/channelsLogo/ad16460a-e7cf-4f01-b9db-5a90650a9837/default",تلوبیون ورزشی 2
-https://ncdn.telewebion.com/twsport2/live/playlist.m3u8
+https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport2/live/1080p/index.m3u8
 
 # تلوبیون ورزشی 3
 #EXTINF:-1 tvg-id="TWSport3.ir" tvg-logo="https://static.telewebion.com/channelsLogo/f290aa02-5b44-4fcd-9d77-7d66cf727596/default",تلوبیون ورزشی 3
-https://ncdn.telewebion.com/twsport3/live/playlist.m3u8
+https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103.telewebion.com/ek/sport3/live/1080p/index.m3u8
 
 # لبیک
 #EXTINF:-1 tvg-id="Labbayk.ir" tvg-logo="https://s2-cdn.sepehrtv.ir/img/channel/shabake%20labeik%20130%20130.png",لبیک
-https://cdn-bshtcfb2.telewebion.com/ek/labbayk/live/playlist.m3u8?isp=mtn&city=tehran
+https://ncdn.telewebion.com/labbayk/live/playlist.m3u8
+
+# کارون
+#EXTINF:-1 tvg-id="KaroonTV.ir@SD",کارون
+https://ncdn.telewebion.com/karoon/live/playlist.m3u8
+
+#ایرانمان
+#EXTINF:-1 tvg-id="Iraneman.ir@SD",ایرانمان
+https://ncdn.telewebion.com/iraneman/live/playlist.m3u8
+
+#انرژی
+#EXTINF:-1 tvg-id="Energy.ir@SD",انرژی
+https://ncdn.telewebion.com/baenergy/live/playlist.m3u8
